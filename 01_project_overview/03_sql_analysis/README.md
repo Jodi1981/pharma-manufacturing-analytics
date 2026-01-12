@@ -9,3 +9,8 @@ The focus is on:
 - Understanding manufacturing performance
 - Identifying trends and inefficiencies
 - Supporting operational and quality-related insights
+
+
+
+
+
