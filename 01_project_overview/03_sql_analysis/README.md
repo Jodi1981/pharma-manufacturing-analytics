@@ -20,13 +20,7 @@ These screenshots demonstrate:
 - Real data returned from the `production_runs` table
 - Validation of analytical results used in later stages
 
-### Production Line Run Counts
 
-![Production line run counts](../../04_visual_evidence/pgadmin/production_line_run_counts.png)
-
-### Production Line Total Quantity Produced
-
-![Production line total quantity produced](../../04_visual_evidence/pgadmin/Total_Quantity_Produced.png)
 
 
 
