@@ -20,7 +20,18 @@ These screenshots demonstrate:
 - Real data returned from the `production_runs` table
 - Validation of analytical results used in later stages
 
+Key KPIs Covered
 
+The SQL analyses in this folder support the following manufacturing KPIs:
+
+- Production run volume and validation
+- Output distribution by production line
+- Average run duration by production line
+- Average output per run
+- Throughput efficiency (units produced per hour)
+
+Each KPI is implemented as a standalone SQL script to allow
+independent execution, testing, and reuse.
 
 
 
