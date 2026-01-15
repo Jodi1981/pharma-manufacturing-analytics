@@ -29,7 +29,8 @@ The SQL analyses in this folder support the following manufacturing KPIs:
 - Average run duration by production line
 - Average output per run
 - Throughput efficiency (units produced per hour)
-
+- Deviation Rate by Production Line
+  
 Each KPI is implemented as a standalone SQL script to allow
 independent execution, testing, and reuse.
 
